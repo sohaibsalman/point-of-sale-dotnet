@@ -121,7 +121,7 @@ Point of Sale (POS) with N-Tier Architecture ([**5 Layers**](#solution)). This P
 #### Step - 1 
 Download or Clone
 ```sh
-git clone https://github.com/ahannan8559/point-of-sale
+git clone https://github.com/sohaibsalman/point-of-sale-dotnet.git
 ```
 
 #### Step - 2
